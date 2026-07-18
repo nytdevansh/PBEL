@@ -28,7 +28,7 @@ store.lock
 __pycache__/
 
 # Large training artifacts (download from Kaggle notebook Output)
-courses.csv
+
 vectors.npy
 metrics.json
 
