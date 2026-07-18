@@ -1,0 +1,14 @@
+{
+  "source_file": "/kaggle/input/datasets/hossaingh/udemy-courses/Course_info.csv",
+  "rows_after_cleaning": 122927,
+  "min_rows_required": 100000,
+  "tfidf_features": 5000,
+  "svd_components": 200,
+  "svd_explained_variance": 0.31352634101970367,
+  "content_fields_used": [
+    "title",
+    "headline",
+    "category"
+  ],
+  "language_filtered": true
+}

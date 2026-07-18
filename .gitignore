@@ -1,0 +1,45 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Large / obsolete archives
+archive/
+archive/mooccube_merged.csv
+archive/residual/
+archive/*.pkl
+archive/vectors.npy
+archive/store.csv
+archive/store.lock
+
+# Runtime store (regenerated on bootstrap)
+store.csv
+store.lock
+__pycache__/
+
+# Large training artifacts (download from Kaggle notebook Output)
+courses.csv
+vectors.npy
+metrics.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+
+# Dataset
+Course_info.csv
