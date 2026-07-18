@@ -27,10 +27,6 @@ store.csv
 store.lock
 __pycache__/
 
-# Large training artifacts (download from Kaggle notebook Output)
-
-vectors.npy
-metrics.json
 
 # Streamlit secrets
 .streamlit/secrets.toml
